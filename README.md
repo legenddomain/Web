@@ -145,7 +145,7 @@
    </li>
                 
                 
-   <li><a href="#"> About&nbsp; Us</a>
+   <li><a href="#"> About Us</a>
    </li>
                 
    <li><a href="#">Contact&nbsp;Us</a>
